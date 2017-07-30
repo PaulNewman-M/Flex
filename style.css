@@ -1,0 +1,18 @@
+@media screen and (max-width:400px){
+.container{
+width:100%;
+	display : flex;
+}
+}
+
+
+
+	.first{
+		width:50%;
+		height:50px;
+		background-color:red;
+	}
+	.second{
+		width:50%;
+		background-color:blue;
+	}
